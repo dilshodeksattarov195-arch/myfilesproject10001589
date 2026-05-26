@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfarse",
+        "uuid": 4107565,
+        "checksum": "4synme"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
